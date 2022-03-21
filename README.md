@@ -1,6 +1,6 @@
 # Delphi IDE Theme Editor + Dracula Theme Custom
 
-![](D:\Documentos\Programas\DITE + Dracula Theme Custom\Dracula Theme.png)
+![Dracula Theme](https://user-images.githubusercontent.com/74995981/159311053-bc4da123-29c6-4c76-9d44-74027882b43b.png)
 
 ### Instalação do DITE (Delphi IDE Theme Editor):
 
