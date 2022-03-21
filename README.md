@@ -6,7 +6,7 @@
 
 - Basta instalar o arquivo ***Setup_DITE.exe***
 
-- Colar e substituir o arquivo ***dracula.theme.xml*** dentro da pasta onde está localizada o programa. Geralmente em ***C:\ProgramData\DITE\Themes***
+- Colar e substituir o arquivo ***dracula.theme.xml*** dentro da pasta onde está localizado os XMLs do programa. Por padrão, a pasta fica em ***C:\ProgramData\DITE\Themes***
 
 - Para aplicar o tema, basta executar o programa **Delphi IDE Theme Editor** e escolher o ambiente a ser customizado (Onde está localizado o "Installed IDEs". Localize o tema dracula e aplique.
 
