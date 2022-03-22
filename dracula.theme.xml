@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DelphiIDETheme modified="2022-03-21 12:40:07" author="Delphi IDE Theme Editor" versionapp="1.97.1.1">
+<DelphiIDETheme modified="2022-03-22 15:15:55" author="Delphi IDE Theme Editor" versionapp="1.97.1.1">
   <AdditionalSearchMatchHighlight>
     <Bold>False</Bold>
     <Italic>False</Italic>
@@ -114,7 +114,7 @@
     <Underline>False</Underline>
     <DefaultForeground>False</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
-    <ForegroundColorNew>clBlack</ForegroundColorNew>
+    <ForegroundColorNew>$00372B28</ForegroundColorNew>
     <BackgroundColorNew>$00F993BD</BackgroundColorNew>
   </EnabledBreak>
   <ErrorLine>
@@ -132,7 +132,7 @@
     <Underline>False</Underline>
     <DefaultForeground>False</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
-    <ForegroundColorNew>clBlack</ForegroundColorNew>
+    <ForegroundColorNew>$00372B28</ForegroundColorNew>
     <BackgroundColorNew>$009999CC</BackgroundColorNew>
   </ExecutionPoint>
   <Float>
