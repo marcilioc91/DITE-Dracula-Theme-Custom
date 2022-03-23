@@ -2,7 +2,18 @@
 
 ![Dracula Theme](https://user-images.githubusercontent.com/74995981/159311053-bc4da123-29c6-4c76-9d44-74027882b43b.png)
 
-### Instalação do DITE (Delphi IDE Theme Editor):
+### Compatibilidade do DITE - Desenvolvido por RRUZ: https://github.com/RRUZ/delphi-ide-theme-editor
+
+- Delphi 7.
+- RAD Studio 2005-2010
+- RAD Studio XE-XE8
+- RAD Studio 10 Seattle, RAD Studio 10.1 Berlin, RAD Studio 10.2 Tokyo, RAD Studio 10.3 Rio, RAD Studio 10.4 Sydney, RAD Studio 11 Alexandria
+- Lazarus v1.0.6
+- Appmethod 1.13-1.16
+- Smart Mobile Studio IDE v1.1.2.17
+
+
+### Configurações e observações:
 
 - Instale o programa ***Setup_DITE.exe***;
 
