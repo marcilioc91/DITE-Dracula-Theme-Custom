@@ -205,7 +205,7 @@
     <DefaultForeground>True</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
     <ForegroundColorNew>$00FFFFFF</ForegroundColorNew>
-    <BackgroundColorNew>$001E1E1E</BackgroundColorNew>
+    <BackgroundColorNew>$0044475A</BackgroundColorNew>
   </LineHighlight>
   <LineNumber>
     <Bold>False</Bold>
