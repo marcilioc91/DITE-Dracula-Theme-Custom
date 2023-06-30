@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DelphiIDETheme modified="2022-03-28 10:16:20" author="Delphi IDE Theme Editor" versionapp="1.97.1.1">
+<DelphiIDETheme modified="2023-06-30 12:51:18" author="Delphi IDE Theme Editor" versionapp="1.97.1.1">
   <AdditionalSearchMatchHighlight>
     <Bold>False</Bold>
     <Italic>False</Italic>
     <Underline>False</Underline>
     <DefaultForeground>True</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
-    <ForegroundColorNew>$00FFFFFF</ForegroundColorNew>
+    <ForegroundColorNew>clWhite</ForegroundColorNew>
     <BackgroundColorNew>$001E1E1E</BackgroundColorNew>
   </AdditionalSearchMatchHighlight>
   <Assembler>
@@ -204,8 +204,8 @@
     <Underline>False</Underline>
     <DefaultForeground>True</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
-    <ForegroundColorNew>$00FFFFFF</ForegroundColorNew>
-    <BackgroundColorNew>$0044475A</BackgroundColorNew>
+    <ForegroundColorNew>clWhite</ForegroundColorNew>
+    <BackgroundColorNew>$005B4743</BackgroundColorNew>
   </LineHighlight>
   <LineNumber>
     <Bold>False</Bold>
@@ -223,7 +223,7 @@
     <DefaultForeground>True</DefaultForeground>
     <DefaultBackground>False</DefaultBackground>
     <ForegroundColorNew>$00F4F8F9</ForegroundColorNew>
-    <BackgroundColorNew>$005B4743</BackgroundColorNew>
+    <BackgroundColorNew>$007E635A</BackgroundColorNew>
   </MarkedBlock>
   <ModifiedLine>
     <Bold>False</Bold>
